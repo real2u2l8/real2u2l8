@@ -5,7 +5,7 @@
 
 <br>
 
-<p><img align="right" src="" /></p>
+<p><img align="right" src="/codding.gif" /></p>
 
 
 - :school: K-Shield .Jr 3rd Security Incident Analysis and Response (Security IR)
