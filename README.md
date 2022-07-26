@@ -8,7 +8,7 @@
 <p><img align="right" src="" /></p>
 
 
-- :school: K-Shield .Jr 3rd (IR)Security Incident Analysis and Response
+- :school: K-Shield .Jr 3rd Security Incident Analysis and Response (Security IR)
 - :school: KITRI Best of the Best (BoB) 11th 
 - :school: Information Security Engeneering Bachelor
 - 📫 How to reach me **real.hansy@gmail.com**
@@ -44,12 +44,15 @@
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=real2u2l8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=real2u2l8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=real2u2l8&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/></p>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=real2u2l8&label=Profile%20views&color=0e75b6&style=flat"/> 
-  </p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=real2u2l8&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+<p align="right"> <h3>Profile Views</h3><br>
+  <img src="https://komarev.com/ghpvc/?username=real2u2l8&label=Profile%20views&color=0e75b6&style=flat"/> 
+</p>
 
