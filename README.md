@@ -39,17 +39,12 @@
   <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=real2u2l8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
         bg_color=#808080/></p>
-
-<br>
-
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=real2u2l8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/></p>
-
-<br>
-
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=real2u2l8&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
+
 <p align="right"> <h3>Profile Views</h3><br>
   <img src="https://komarev.com/ghpvc/?username=real2u2l8&label=Profile%20views&color=0e75b6&style=flat"/> 
 </p>
