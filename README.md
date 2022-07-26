@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="/codding.gif" height="400"/></p>
+<p><img align="right" src="/codding.gif" height="300"/></p>
 
 
 - :school: K-Shield Jr. 3rd (Security IR)
