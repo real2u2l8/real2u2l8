@@ -8,7 +8,7 @@
 <p><img align="right" src="/codding.gif" /></p>
 
 
-- :school: K-Shield .Jr 3rd Security Incident Analysis and Response (Security IR)
+- :school: K-Shield Jr. 3rd (Security IR)
 - :school: KITRI Best of the Best (BoB) 11th 
 - :school: Information Security Engeneering Bachelor
 - 📫 How to reach me **real.hansy@gmail.com**
