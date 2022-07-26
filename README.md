@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" height="200"/>
+  <img src="face.png" height="200"/>
 </p>
 
 <h1 align="center">Hi 👋, This is SEOSLE from South Korea</h1>
