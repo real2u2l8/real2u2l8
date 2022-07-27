@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, This is SEOSLE from South Korea</h1>
-<h3 align="center">Student & Want to be a Security eveloper</h3>
+<h3 align="center">Student & Want to be a Security Developer</h3>
 
 <br>
 
