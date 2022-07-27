@@ -14,7 +14,7 @@
 
 - :school: K-Shield Jr. 3rd (Security IR)
 - :school: KITRI Best of the Best (BoB) 11th 
-- :school: Information Security Engeneering Bachelor
+- :school: Information Security Engineering Bachelor
 - 📫 How to reach me **real.hansy@gmail.com**
 
 
