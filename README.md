@@ -13,14 +13,17 @@
 </p>
 
 <h3 align="left">About Me.</h3>
+
 - :punch: Security Developer
 - 📫 **real.hansy@gmail.com**
-<br>
+
 <h3 align="left">Experience.</h3>
+
 - :school: K-Shield Jr. 3rd (Security IR)
 - :school: KITRI Best of the Best (BoB) 11th Security Products Development Track 
-<br>
+
 <h3 align="left">Educated.</h3>
+
 - :school: Information Security Engineering Bachelor
 
 <h3 align="left">Languages and Tools</h3>
