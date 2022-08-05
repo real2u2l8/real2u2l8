@@ -41,21 +41,22 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   
-</p>
+</p><br>
 
-<br>
-<p align="right"> <h3>Profile Views</h3><br>
+<h3 align="left">View counter</h3>
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=real2u2l8&label=Profile%20views&color=0e75b6&style=flat-sqaure"/> 
 </p>
+
 <h3>GitHub Status</h3>
-<p>
-  <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=real2u2l8&hide=css&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
-        bg_color=#808080/></p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=real2u2l8&show_icons=true&hide=contribs,prs&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/></p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=real2u2l8&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=real2u2l8&hide=css&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
+        bg_color=#808080/><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=real2u2l8&show_icons=true&hide=contribs,prs&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=real2u2l8&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
+  <br>
 </p>
 
 
