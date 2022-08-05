@@ -44,7 +44,9 @@
 </p>
 
 <br>
-
+<p align="right"> <h3>Profile Views</h3><br>
+  <img src="https://komarev.com/ghpvc/?username=real2u2l8&label=Profile%20views&color=0e75b6&style=flat-sqaure"/> 
+</p>
 <h3>GitHub Status</h3>
 <p>
   <img align="center"
@@ -56,7 +58,5 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=real2u2l8&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
-<p align="right"> <h3>Profile Views</h3><br>
-  <img src="https://komarev.com/ghpvc/?username=real2u2l8&label=Profile%20views&color=0e75b6&style=flat"/> 
-</p>
+
 
