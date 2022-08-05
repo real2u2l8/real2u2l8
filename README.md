@@ -48,7 +48,7 @@
 <h3>GitHub Status</h3>
 <p>
   <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=real2u2l8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=real2u2l8&hide=css&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
         bg_color=#808080/></p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=real2u2l8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/></p>
