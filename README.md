@@ -51,7 +51,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=real2u2l8&hide=css&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"
         bg_color=#808080/></p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=real2u2l8&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=real2u2l8&show_icons=true&hide=contribs,prs&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/></p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=real2u2l8&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
