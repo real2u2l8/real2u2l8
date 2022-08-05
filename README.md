@@ -11,25 +11,16 @@
 
 <p><img align="right" src="/codding.gif" height="300"/></p>
 
-
-- :school: K-Shield Jr. 3rd (Security IR)
-- :school: KITRI Best of the Best (BoB) 11th 
-- :school: Information Security Engineering Bachelor
-- 📫 How to reach me **real.hansy@gmail.com**
-
-
+<h3 align="left">About Me.</h3>
+*:punch: Security Developer
+*📫 **real.hansy@gmail.com**
 <br>
-
-<h3 align="left">The Contacts</h3>
-<p align="left">
-  <a href="https://fb.com/real.hansy/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/real.hansy" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-</p>
-
+<h3 align="left">Experience.</h3>
+*:school: K-Shield Jr. 3rd (Security IR)
+*:school: KITRI Best of the Best (BoB) 11th Security Products Development Track 
 <br>
-
+<h3 align="left">Educated.</h3>
+*:school: Information Security Engineering Bachelor
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
