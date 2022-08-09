@@ -20,7 +20,7 @@
 <h3 align="left">Experience.</h3>
 
 - :school: K-Shield Jr. 3rd (Security IR)
-- :school: KITRI Best of the Best (BoB) 11th Security Products Development Track 
+- :school: KITRI Best of the Best (BoB) 11th
 
 <h3 align="left">Educated.</h3>
 
