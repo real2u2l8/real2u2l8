@@ -9,7 +9,7 @@
 <br>
 
 <p>
-	<img align="right" src="/codding.gif" height="200"/>
+	<img align="right" src="/codding.gif" height="250"/>
 </p>
 
 <h3 align="left">About Me.</h3>
