@@ -21,7 +21,7 @@
 <h3 align="left">Experience.</h3>
 
 - :school: K-Shield Jr. 3rd Cohort (Security IR)
-- :school: KITRI Best of the Best (BoB) 11th Cohort - Security Product Developer Track
+- :school: KITRI Best of the Best (BoB) 11th Cohort
 
 <h3 align="left">Educated.</h3>
 
