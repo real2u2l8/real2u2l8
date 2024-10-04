@@ -4,7 +4,7 @@
 </p>
 -->
 <h1 align="center">Hi 👋, This is SEOSLE from South Korea</h1>
-<h3 align="center">Junior Security Developer</h3>
+<h3 align="center">Junior Security Software Developer</h3>
 
 <br>
 <br>
@@ -20,12 +20,12 @@
 
 <h3 align="left">Experience.</h3>
 
-- :school: K-Shield Jr. 3rd (Security IR)
-- :school: KITRI Best of the Best (BoB) 11th - Security Product Developer Track
+- :school: K-Shield Jr. 3rd Cohort (Security IR)
+- :school: KITRI Best of the Best (BoB) 11th Cohort - Security Product Developer Track
 
 <h3 align="left">Educated.</h3>
 
-- :school: Information Security Engineering Bachelor
+- :school: Bachelor's Degree in Information Security Engineering
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
