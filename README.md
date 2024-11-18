@@ -4,7 +4,7 @@
 </p>
 -->
 <h1 align="center">Hi 👋, This is SEOSLE from South Korea</h1>
-<h3 align="center">Junior Security Software Developer</h3>
+<h3 align="center">Security Software Developer</h3>
 
 <br>
 <br>
