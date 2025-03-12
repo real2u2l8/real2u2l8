@@ -22,6 +22,7 @@
 
 - :school: K-Shield Jr. 3rd Cohort (Security IR)
 - :school: KITRI Best of the Best (BoB) 11th Cohort
+- :school: KISIA S-Developer 3rd ~ing
 
 <h3 align="left">Educated.</h3>
 
