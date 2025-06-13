@@ -17,7 +17,15 @@
 - 🔒 Security Software Developer with a focus on information security
 - 🎓 Bachelor's Degree in Information Security Engineering
 - 📫 Contact me at **real.hansy@gmail.com**
-- 🌱 Currently learning and exploring new security technologies
+
+### Areas of Interest
+- 🔐 **Data Loss Prevention (DLP)** - Developing solutions to protect sensitive data
+- 🛡️ **Network Security Products** - Building robust network security solutions
+- 🎮 **Game Security & Anti-Cheat Systems** - Creating secure gaming environments
+- 💻 **Endpoint Security** - Developing system-level security solutions
+- 🔧 **System Programming** - Specializing in C/C++ for low-level system development
+- 🧮 **Post-Quantum Cryptography** - Exploring next-generation cryptographic solutions
+- ⚙️ **Compiler & LLVM** - Working with compiler technologies and optimization
 
 ## 💼 Professional Experience
 
