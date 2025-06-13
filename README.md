@@ -7,13 +7,7 @@
 <h3 align="center">Security Software Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/real2u2l8?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=real2u2l8&show_icons=true&hide=contribs,prs&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=real2u2l8&hide=html,scss,javascript,java,css,qmake,makefile,cmake,ruby&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff"/>
+  <img src="/codding.gif" height="250"/>
 </p>
 
 <br>
@@ -69,9 +63,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="/codding.gif" height="250"/>
-</p>
 
 
 
