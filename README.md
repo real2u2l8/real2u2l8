@@ -58,12 +58,6 @@
   <img src="https://komarev.com/ghpvc/?username=real2u2l8&label=Profile%20views&color=0e75b6&style=flat-sqaure"/>
 </p>
 
-## 🌟 Featured Projects
-
-<!-- Add your featured projects here -->
-- [Project 1] - Brief description
-- [Project 2] - Brief description
-- [Project 3] - Brief description
 
 ## 📫 Connect with Me
 
