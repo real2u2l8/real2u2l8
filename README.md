@@ -30,8 +30,8 @@
 ## 💼 Professional Experience
 
 ### Security Training Programs
-- 🏆 **K-Shield Jr. 3rd Cohort** - Security IR
-- 🏆 **KITRI Best of the Best (BoB) 11th Cohort**
+- 🏆 **KISA K-Shield Jr. 3rd** - Security IR
+- 🏆 **KITRI Best of the Best (BoB) 11th** - Security Software Develop Track
 - 🏆 **KISIA S-Developer 3rd**
 
 ## 🛠️ Technical Skills
